@@ -2,4 +2,4 @@ Hola como esta
 
 Esto es un ejemplo de git..
 
-asi que es el primer paso para la programacion de alta complejidad
+asi que es el primer paso para la programacion de alta complejidad p
